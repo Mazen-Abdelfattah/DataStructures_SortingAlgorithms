@@ -1,2 +1,2 @@
 # DataStructures_SortingAlgorithms
-In C++, utilizing streams, we implemented popular sorting algorithms, including the ability to calculate their execution times. Additionally, we developed linear data structures and some trees
+In C++, utilizing streams, we implemented popular sorting algorithms, including the ability to calculate their execution times. Additionally, we developed linear data structures including Array Stack, Array Queue, and various types of Linked Lists (Single, Double, Circular, and Array Based). These Linked Lists were further utilized to create Linked List Stack and Linked List Queue. For Non-Linear Data Structures, we implemented Binary Search Tree, Heaps, and Adelson-Velsky and Landis Tree (AVL tree).
